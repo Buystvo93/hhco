@@ -1,1 +1,22 @@
+[
+  {
+    "id": "97-mcdavid",
+    "name": "Connor McDavid",
+    "number": 97,
+    "team": "Edmonton Oilers",
+    "team_abbr": "EDM",
+    "position": "C",
+    "shoots": "L",
+    "height": "6'1\"",
+    "weight": "193 lb",
+    "birthdate": "January 13, 1997",
+    "nationality": "Canada",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20242025/EDM/8478402.png",
+    "bio": "Dynamic center known for elite speed, edgework, and playmaking.",
+    "seasons": [
+      {"season": "2022–23", "team": "EDM", "gp": 82, "g": 64, "a": 89, "pts": 153, "plusminus": 22, "pim": 36},
+      {"season": "2023–24", "team": "EDM", "gp": 76, "g": 32, "a": 100, "pts": 132, "plusminus": 35, "pim": 30}
+    ]
+  }
+]
 
