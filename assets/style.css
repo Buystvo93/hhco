@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #0a0f1a; color: #eee; }
+h1, h2 { color: #60a5fa; }
+a { color: #60a5fa; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px,1fr)); gap: 16px; }
+.card { background: #111827; padding: 12px; border-radius: 8px; }
+.card img { width: 100px; display:block; margin:auto; }
