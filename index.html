@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Players</title>
+</head>
+<body>
+  <h1>All Players</h1>
+  <ul id="playerList"></ul>
+
+  <script>
+    async function loadPlayers() {
+      const res = await fetch("players.json");
+      const players = await res.json();
+
+      const list = document.getElementById("playerList");
+      players.forEach(player => {
+        const li = document.createElement("li");
+        li.innerHTML = `<a href="player.html?id=${player.id}">${player.name}</a>`;
+        list.appendChild(li);
+      });
+    }
+    loadPlayers();
+  </script>
+</body>
+</html>
