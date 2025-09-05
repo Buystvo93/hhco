@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Connor McDavid",
+    "team": "Edmonton Oilers",
+    "position": "Center",
+    "goals": 50,
+    "assists": 80
+  },
+  {
+    "id": "2",
+    "name": "Auston Matthews",
+    "team": "Toronto Maple Leafs",
+    "position": "Center",
+    "goals": 60,
+    "assists": 40
+  }
+]
