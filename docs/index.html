@@ -22,7 +22,8 @@
   <pre id="example"></pre>
 
   <script>
-    const baseUrl = window.location.origin + window.location.pathname.replace(/docs\/$/, '');
+    const baseUrl = window.location.origin + window.location.pathname.replace(/docs\/.*/, '');
+
     const files = ["data.json"];
 
     const ul = document.getElementById("endpoints");
