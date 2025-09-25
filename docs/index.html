@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Static API Docs</title>
+  <title>Hockey API Documentation</title>
   <style>
     body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; }
     h1 { color: #2c3e50; }
     code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-    pre { background: #f4f4f4; padding: 10px; border-radius: 4px; }
+    pre { background: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; }
   </style>
 </head>
 <body>
-  <h1>📖 My API Documentation</h1>
-  <p>This API is hosted on GitHub Pages and serves static JSON files.</p>
+  <h1>🏒 Hockey API Documentation</h1>
+  <p>This API serves static JSON files hosted on GitHub Pages.</p>
 
   <h2>🔗 Endpoints</h2>
   <ul id="endpoints"></ul>
@@ -23,7 +23,7 @@
 
   <script>
     const baseUrl = window.location.origin + window.location.pathname.replace(/docs\/$/, '');
-    const files = ["data.json", "teams.json"];
+    const files = ["data.json"];
 
     const ul = document.getElementById("endpoints");
     const example = document.getElementById("example");
@@ -34,7 +34,6 @@
       li.innerHTML = `<a href="${url}" target="_blank">${url}</a>`;
       ul.appendChild(li);
 
-      // Load first file as example
       fetch(url)
         .then(r => r.json())
         .then(data => {
