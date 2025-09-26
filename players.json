@@ -1,18 +1,154 @@
-[
+[ 
   {
-    "id": "1",
-    "name": "Connor McDavid",
-    "team": "Edmonton Oilers",
-    "position": "Center",
-    "goals": 50,
-    "assists": 80
+    "id": "218955237",
+    "name": "slonqxr",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6F2ECE75D3D40324582C04B908FCAE58-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 17, "goals": 19, "assists": 15, "points": 34, "hits": 415, "sog": 123, "pen": 10, "dp": 10, "cup": false }
+    ]
+  },
+ {
+    "id": "75013743",
+    "name": "f7mous",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-68FC5287E919AC7666310FC8D15171C9-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 16, "goals": 22, "assists": 11, "points": 33, "hits": 164, "sog": 67, "pen": 7, "dp": 11, "cup": false }
+    ],
+   "goalieSeasons": [
+     { "year": "S5", "games": 7, "wins": 1, "losses": 1, "otl": 0, "shutouts": 0, "saves": 44, "shot faced": 53 }
+   ]
   },
   {
-    "id": "2",
-    "name": "Auston Matthews",
-    "team": "Toronto Maple Leafs",
-    "position": "Center",
-    "goals": 60,
-    "assists": 40
+    "id": "1727477392",
+    "name": "xelasee",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7A01574185C5CCCE3793B38F78AA28E7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 13, "goals": 14, "assists": 4, "points": 18, "hits": 220, "sog": 85, "pen": 13, "dp": 11, "cup": false }
+    ]
+  },
+  {
+    "id": "192045102",
+    "name": "mistakencave",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5C8948D6B513BFF2FAE19879032DC5ED-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 12, "goals": 7, "assists": 10, "points": 17, "hits": 193, "sog": 53, "pen": 4, "dp": 10, "cup": false }
+    ],
+   "goalieSeasons": [
+     { "year": "S5", "games": 3, "wins": 0, "losses": 0, "otl": 0, "shutouts": 0, "saves": 0, "shot faced": 0 }
+   ]
+  },
+  {
+    "id": "95445045",
+    "name": "TheJediGamer08",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-71F6699A6A2FEF58BD0D0684BBD88E0B-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 8, "goals": 7, "assists": 4, "points": 11, "hits": 32, "sog": 26, "pen": 0, "dp": 2, "cup": false }
+    ],
+   "goalieSeasons": [
+     { "year": "S5", "games": 1, "wins": 0, "losses": 0, "otl": 0, "shutouts": 0, "saves": 0, "shot faced": 0 }
+   ]
+  },
+  {
+    "id": "76325696",
+    "name": "Awesomesaucecrap",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D959C925804F3AC23DA2068A1E2622D4-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 15, "goals": 0, "assists": 6, "points": 6, "hits": 118, "sog": 19, "pen": 4, "dp": 0, "cup": false }
+    ],
+   "goalieSeasons": [
+     { "year": "S5", "games": 4, "wins": 1, "losses": 0, "otl": 0, "shutouts": 0, "saves": 33, "shot faced": 38 }
+   ]
+  },
+  {
+    "id": "8707710734",
+    "name": "SpIashv1",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B8D0CD7D3686FB6F74342DF497695029-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 1, "goals": 1, "assists": 0, "points": 1, "hits": 11, "sog": 1, "pen": 1, "dp": 0, "cup": false }
+    ]
+  },
+  {
+    "id": "1781929999",
+    "name": "Bradyswrld2",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1C09DC58191945DCAB566218AC5D4205-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 1, "goals": 1, "assists": 0, "points": 1, "hits": 5, "sog": 3, "pen": 0, "dp": 0, "cup": false }
+    ]
+  },
+  {
+    "id": "97594568",
+    "name": "Slownights",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9F23383825E5D904DA86EE42B31FB784-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 2, "goals": 0, "assists": 0, "points": 0, "hits": 26, "sog": 1, "pen": 1, "dp": 1, "cup": false }
+    ]
+  },
+  {
+    "id": "540691681",
+    "name": "LordPokoh",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0ACD48F8FEDC88C6281879D9121D9C8A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 6, "goals": 0, "assists": 0, "points": 0, "hits": 32, "sog": 3, "pen": 2, "dp": 2, "cup": false }
+    ]
+  },
+  {
+    "id": "350092446",
+    "name": "loosepocket285",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2CC5D7F2E92A085EA632C3F3EB7C6504-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "goalieSeasons": [
+     { "year": "S5", "games": 4, "wins": 1, "losses": 1, "otl": 0, "shutouts": 0, "saves": 16, "shot faced": 26 }
+   ]
+  },
+  {
+    "id": "1179896449",
+    "name": "Mysterable",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CA60739E297C5458C290DD6A3DDBC460-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "goalieSeasons": [
+     { "year": "S5", "games": 2, "wins": 0, "losses": 1, "otl": 0, "shutouts": 0, "saves": 16, "shot faced": 21 }
+   ]
+  },
+  {
+    "id": "69921119",
+    "name": "grt445",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-885026DD39AE75B5541375E05FFDD726-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 14, "goals": 4, "assists": 11, "points": 15, "hits": 252, "sog": 63, "pen": 6, "dp": 10, "cup": false }
+    ]
+  },
+  {
+    "id": "905251703",
+    "name": "hockeybob8",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7D8805E6E3C55955664094293BDB8A14-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 14, "goals": 8, "assists": 6, "points": 14, "hits": 198, "sog": 64, "pen": 6, "dp": 14, "cup": false }
+    ]
+  },
+  {
+    "id": "5242558016",
+    "name": "TheMightyBacon_9",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-324CAC0CD00A880DD5BADBE5DD50F079-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 3, "goals": 1, "assists": 1, "points": 2, "hits": 19, "sog": 6, "pen": 0, "dp": 3, "cup": false }
+    ],
+    "clips": [
+      { "url": "wCcMTpZMBPhpEIXAZ9JoxZ8.mp4", "desc": "TheMightyBacon_9 Clip 1" },
+      { "url": "VmWOwf3jG0ONEIe8mI6nXCY.mp4", "desc": "TheMightyBacon_9 Clip 2" }
+    ]
+  },
+  {
+    "id": "185038967",
+    "name": "ComplexDreamer",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6B9F544FA72DB5FB4E8DC7E222FB0757-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 8, "goals": 6, "assists": 7, "points": 13, "hits": 83, "sog": 33, "pen": 4, "dp": 6, "cup": false }
+    ]
+  },
+  {
+    "id": "1505927709",
+    "name": "Azotik",
+    "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A5CEF837F4A46EAB86B37D734A0A1562-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "seasons": [
+      { "year": "S5", "games": 9, "goals": 6, "assists": 4, "points": 10, "hits": 136, "sog": 39, "pen": 6, "dp": 3, "cup": false }
+    ]
   }
 ]
